@@ -1,7 +1,7 @@
 ````markdown
 # 🔵 BlueConnect: Internet-Free Communication Tool
 
-**BlueConnect** is an enterprise-grade peer-to-peer messaging application built in **Java** using the **BlueCove** library for Bluetooth communication. This tool enables users to discover nearby Bluetooth devices, establish RFCOMM connections, and exchange text messages **without the need for internet**.
+BlueConnect is an enterprise-grade peer-to-peer messaging application built in **Java** using the **BlueCove** library for Bluetooth communication. This tool enables users to discover nearby Bluetooth devices, establish RFCOMM connections, and exchange text messages without the need for internet.
 
 ---
 
